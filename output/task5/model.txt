@@ -1,0 +1,21 @@
+C	0	280401
+C	1	4884
+F	0	asset_level	0	69864
+F	0	asset_level	1	69888
+F	0	asset_level	2	70357
+F	0	asset_level	3	70292
+F	0	fund_flag	0	239867
+F	0	fund_flag	1	40534
+F	0	has_debt	0	261384
+F	0	has_debt	1	19017
+F	0	loan_state	0	271634
+F	0	loan_state	1	8767
+F	1	asset_level	0	1458
+F	1	asset_level	1	1433
+F	1	asset_level	2	964
+F	1	asset_level	3	1029
+F	1	fund_flag	0	3840
+F	1	fund_flag	1	1044
+F	1	has_debt	0	4573
+F	1	has_debt	1	311
+F	1	loan_state	2	4884
